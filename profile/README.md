@@ -4,4 +4,4 @@
 
 QQ 群 319271312
 
-Telegram @freebsdba
+Telegram https://t.me/ChinaFreeBSD
