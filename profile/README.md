@@ -1,4 +1,6 @@
-# Make FreeBSD Great Again.
+# Make FreeBSD Great Again！
+
+**MFGA！**
 
 QQ 群 319271312
 
