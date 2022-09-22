@@ -2,6 +2,6 @@
 
 **MFGA！**
 
-QQ 群 319271312
+QQ 群 787969044
 
-Telegram https://t.me/ChinaFreeBSD
+Telegram https://t.me/freebsdba
