@@ -4,4 +4,4 @@
 
 QQ 群 787969044
 
-Telegram https://t.me/freebsdba
+Telegram https://t.me/ohmybsd/
